@@ -1,0 +1,1 @@
+# node-sentry-github
